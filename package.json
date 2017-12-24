@@ -4,9 +4,14 @@
   "description": "split and join an array together",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
-  "keywords": ["split", "join", "splt-jn", "array"],
+  "keywords": [
+    "split",
+    "join",
+    "splt-jn",
+    "array"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/cdrainxv/splt-jn.git"
@@ -14,5 +19,8 @@
   "license": "MIT",
   "bugs": "https://github.com/cdrainxv/splt-jn/issues",
   "author": "cdrainxv",
-  "homepage": "https://github.com/cdrainxb/splt-jn#readme"
+  "homepage": "https://github.com/cdrainxb/splt-jn#readme",
+  "devDependencies": {
+    "ava": "0.24.0"
+  }
 }
