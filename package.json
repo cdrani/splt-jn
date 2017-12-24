@@ -1,0 +1,18 @@
+{
+  "name": "splt-jn",
+  "version": "0.1.0",
+  "description": "split and join an array together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["split", "join", "splt-jn", "array"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cdrainxv/splt-jn.git"
+  },
+  "license": "MIT",
+  "bugs": "https://github.com/cdrainxv/splt-jn/issues",
+  "author": "cdrainxv",
+  "homepage": "https://github.com/cdrainxb/splt-jn#readme"
+}
