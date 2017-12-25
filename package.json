@@ -1,7 +1,7 @@
 {
   "name": "splt-jn",
   "version": "0.1.0",
-  "description": "split and join an array together",
+  "description": "split and join a string in one function",
   "main": "index.js",
   "scripts": {
     "test": "ava"
