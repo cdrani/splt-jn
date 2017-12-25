@@ -1,2 +1,2 @@
-module.exports.splitJoin = (arr, splitter = ',', joiner = ' ') =>
-  arr.split(splitter).join(joiner)
+module.exports = (str, splitter = ' ', joiner = '-') =>
+  str.split(splitter).join(joiner)

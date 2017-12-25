@@ -6,12 +6,7 @@
   "scripts": {
     "test": "ava"
   },
-  "keywords": [
-    "split",
-    "join",
-    "splt-jn",
-    "array"
-  ],
+  "keywords": ["split", "join", "splt-jn", "string", "array"],
   "repository": {
     "type": "git",
     "url": "https://github.com/cdrainxv/splt-jn.git"
@@ -19,7 +14,7 @@
   "license": "MIT",
   "bugs": "https://github.com/cdrainxv/splt-jn/issues",
   "author": "cdrainxv",
-  "homepage": "https://github.com/cdrainxb/splt-jn#readme",
+  "homepage": "https://github.com/cdrainxv/splt-jn#readme",
   "devDependencies": {
     "ava": "0.24.0"
   }
