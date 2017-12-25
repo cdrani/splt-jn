@@ -12,5 +12,5 @@ test('splitJoin with non-default args', t => {
 })
 
 test('splitJoin with regexes', t => {
-  t.is(splitJoin(str, /o/g, ee), 'eene twee three')
+  t.is(splitJoin(str, /o/g, 'ee'), 'eene twee three')
 })
