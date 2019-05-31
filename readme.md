@@ -1,8 +1,10 @@
-# splt-jn [![Build Status](https://travis-ci.org/cdrainxv/splt-jn.svg?branch=master)](https://travis-ci.org/cdrainxv/splt-jn)
+# splt-jn [![Build Status](https://travis-ci.org/cdrani/splt-jn.svg?branch=master)](https://travis-ci.org/cdrani/splt-jn)
 
 ## install
 
-> $ npm install --save splt-jn
+> npm i splt-jn
+or
+> yarn add splt-jn
 
 ## usage
 
@@ -15,4 +17,4 @@ const strTapped = spltjn(str, ' ', '-')
 ```
 
 ## License
-MIT &copy; | cdrainxv
+MIT &copy; | cdrani
