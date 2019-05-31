@@ -1,21 +1,27 @@
 {
   "name": "splt-jn",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "split and join a string in one function",
   "main": "index.js",
   "scripts": {
     "test": "ava"
   },
-  "keywords": ["split", "join", "splt-jn", "string", "array"],
+  "keywords": [
+    "split",
+    "join",
+    "splt-jn",
+    "string",
+    "array"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/cdrainxv/splt-jn.git"
+    "url": "https://github.com/cdrani/splt-jn.git"
   },
   "license": "MIT",
-  "bugs": "https://github.com/cdrainxv/splt-jn/issues",
-  "author": "cdrainxv",
-  "homepage": "https://github.com/cdrainxv/splt-jn#readme",
+  "bugs": "https://github.com/cdrani/splt-jn/issues",
+  "author": "cdrani",
+  "homepage": "https://github.com/cdrani/splt-jn#readme",
   "devDependencies": {
-    "ava": "0.24.0"
+    "ava": "1.4.1"
   }
 }
