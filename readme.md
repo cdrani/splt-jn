@@ -3,7 +3,9 @@
 ## install
 
 > npm i splt-jn
+
 or
+
 > yarn add splt-jn
 
 ## usage
