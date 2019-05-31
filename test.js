@@ -1,16 +1,16 @@
 import test from 'ava'
-import splitJoin from './'
+import spltjn from './'
 
-let str = 'one two three'
+const str = 'one two three'
 
 test('splitJoin is split then joined', t => {
-  t.is(splitJoin(str), 'one-two-three')
+  t.is(spltjn(str), 'one-two-three')
 })
 
 test('splitJoin with non-default args', t => {
-  t.is(splitJoin(str, 't', 'h'), 'one hwo hhree')  
+  t.is(spltjn(str, 't', 'h'), 'one hwo hhree')  
 })
 
 test('splitJoin with regexes', t => {
-  t.is(splitJoin(str, /o/g, 'ee'), 'eene twee three')
+  t.is(spltjn(str, /o/g, 'ee'), 'eene twee three')
 })
